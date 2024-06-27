@@ -12,7 +12,7 @@ Sou programador backend com formação em ADS. Atualmente, estou estagiando em D
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/lucasaguiar-la?chart=3dbar&gap=0.6&scale=3&gradient=true&flatten=0&format=svg&weeks=40&theme=green&widget_size=large&dark=true) 
 
 ## 🌐 Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-aguiar-5a889126b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%068932.svg?logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lucas_aguiar_ads)
 
 <div align="right">
