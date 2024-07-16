@@ -14,7 +14,7 @@ Sou programador backend com formação em ADS. Atualmente, estou estagiando em D
 ## 🌐 Redes
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511974549205)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZXhBwbqmhPNsmKNGWmTFWrJZcptjCPvXQMvbzMQVJhbzDmRZwXlsfsCKNCldxKkqVzQVB))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new))
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/)
 
