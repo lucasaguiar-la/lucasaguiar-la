@@ -18,7 +18,7 @@
 
 <br><br><br><br>
 
-## 🚀 Stacks
+## 🚀 Stack
 ![Python](https://img.shields.io/badge/python-457a6d?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-d2b1a1.svg?style=for-the-badge&logo=openjdk&logoColor=333333) ![Spring](https://img.shields.io/badge/spring-457a6d.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-d2b1a1.svg?style=for-the-badge&logo=mysql&logoColor=333333) ![Git](https://img.shields.io/badge/git-457a6d.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-d2b1a1.svg?style=for-the-badge&logo=docker&logoColor=333333)
 
 ## 🌐 Redes
