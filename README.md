@@ -9,7 +9,7 @@
 <br><br><br>
 
 <p align="left"> 
-  Sou programador backend com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou estagiando em DevOps, aplicando conhecimentos em automação de processos e infraestrutura. <br><br>Tenho experiência em projetos próprios utilizando Python, JavaScript e Java, além de estudar constantemente sobre requisições web, consumo de APIs e desenvolvimento de software. Embora tenha habilidades em frontend, meu foco principal é no desenvolvimento backend.
+  Sou programador backend com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou estagiando em DevOps, aplicando conhecimentos em automação de processos e infraestrutura. <br><br>Tenho experiência em projetos próprios utilizando Python, JavaScript e Java, além de estudar constantemente sobre requisições web, consumo de APIs e desenvolvimento de software. Embora tenha habilidades em frontend, meu foco é no desenvolvimento backend.
 </p>
 
 <br>
@@ -19,7 +19,7 @@
 <br><br><br><br>
 
 ## 🚀 Stacks
-![Python](https://img.shields.io/badge/python-457a6d?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-d2b1a1.svg?style=for-the-badge&logo=openjdk&logoColor=333333) ![Spring](https://img.shields.io/badge/spring-457a6d.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-d2b1a1.svg?style=for-the-badge&logo=mysql&logoColor=333333) ![Git](https://img.shields.io/badge/git-457a6d.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-d2b1a1.svg?style=for-the-badge&logo=docker&logoColor=333333) ![HTML5](https://img.shields.io/badge/html5-457a6d.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-d2b1a1.svg?style=for-the-badge&logo=css3&logoColor=333333) ![JavaScript](https://img.shields.io/badge/javascript-457a6d.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-457a6d?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-d2b1a1.svg?style=for-the-badge&logo=openjdk&logoColor=333333) ![Spring](https://img.shields.io/badge/spring-457a6d.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-d2b1a1.svg?style=for-the-badge&logo=mysql&logoColor=333333) ![Git](https://img.shields.io/badge/git-457a6d.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-d2b1a1.svg?style=for-the-badge&logo=docker&logoColor=333333)
 
 ## 🌐 Redes
 
