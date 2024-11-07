@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Hey, meu nome é <span style="color: #457a6d;">&lt;Lucas/&gt;</span></h1>
+<h1 align="center">Hey, meu nome é <span style="color: #457a6d;">&lt;/Lucas&gt;</span></h1>
 
 <br>
 
