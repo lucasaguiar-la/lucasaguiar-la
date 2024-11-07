@@ -1,10 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1500&color=00db5b&center=true&vCenter=true&random=false&width=1000&lines=Seja+bem-vindo!;)](https://git.io/typing-svg)
-<br>
-<br>
-
-<h1 align="center">🕹️ Hey, meu nome é Lucas! 👋  </h1>
+<h1 align="center">Hey, meu nome é <span style="color: #457a6d;">&lt;Lucas/&gt;</span></h1>
 
 <br>
 
@@ -23,11 +19,12 @@
 <br><br><br><br>
 
 ## 🚀 Stacks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-457a6d?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-d2b1a1.svg?style=for-the-badge&logo=openjdk&logoColor=333333) ![Spring](https://img.shields.io/badge/spring-457a6d.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-d2b1a1.svg?style=for-the-badge&logo=mysql&logoColor=333333) ![Git](https://img.shields.io/badge/git-457a6d.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-d2b1a1.svg?style=for-the-badge&logo=docker&logoColor=333333) ![HTML5](https://img.shields.io/badge/html5-457a6d.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-d2b1a1.svg?style=for-the-badge&logo=css3&logoColor=333333) ![JavaScript](https://img.shields.io/badge/javascript-457a6d.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 🌐 Redes
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lucas_aguiar_ads)
+[![LinkedIn](https://img.shields.io/badge/linkedin-243b3a.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-243b3a?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lucas_aguiar_ads)
 
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia 😊 <br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=457a6d&height=120&section=footer"/>
