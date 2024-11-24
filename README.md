@@ -9,7 +9,7 @@
 <br><br><br>
 
 <p align="left"> 
-  Sou programador backend com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou estagiando em DevOps, aplicando conhecimentos em automação de processos e infraestrutura. <br><br>Tenho experiência em projetos próprios utilizando Python, JavaScript e Java, além de estudar constantemente sobre requisições web, consumo de APIs e desenvolvimento de software. Embora tenha habilidades em frontend, meu foco é no desenvolvimento backend.
+  Sou programador backend com formação em Análise e Desenvolvimento de Sistemas. Atualmente, integrando uma equipe de desenvolvedor de sistemas e automação. <br><br>Tenho experiência em projetos próprios utilizando Python, JavaScript e Java, além de estudar constantemente sobre requisições web, consumo de APIs e desenvolvimento de software. Embora tenha habilidades em frontend, meu foco é no desenvolvimento backend.
 </p>
 
 <br>
