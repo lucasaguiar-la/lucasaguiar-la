@@ -25,13 +25,6 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="MyMarketing" src="./mymarketing-logo.png"/>](https://mymarketingdigital.com.br/)
-
-**Desenvolvedor Web e Suporte TI** \
-[**My Marketing Digital**](https://mymarketingdigital.com.br/) • Estágio \
-Linguagens & Tecnologias: `JavaScript`, `WordPress`, `HTML`, `CSS`\
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="./guillaumon-logo.png"/>](https://www.guillaumon.com.br/)
 
 **Desenvolvedor de Sistemas e Automação** \
@@ -40,7 +33,14 @@ Linguagens & Tecnologias: `Python`, `JavaScript`, `VBA`, `Zoho`
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+[<img align="left" height="94px" width="94px" alt="MyMarketing" src="./mymarketing-logo.png"/>](https://mymarketingdigital.com.br/)
+
+**Desenvolvedor Web e Suporte TI** \
+[**My Marketing Digital**](https://mymarketingdigital.com.br/) • Estágio \
+Linguagens & Tecnologias: `JavaScript`, `WordPress`, `HTML`, `CSS`\
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 <br/>
 <br/>
 
