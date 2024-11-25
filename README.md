@@ -40,7 +40,7 @@ Linguagens & Tecnologias: `Python`, `JavaScript`, `VBA`, `Zoho`
 Linguagens & Tecnologias: `JavaScript`, `WordPress`, `HTML`, `CSS`\
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) para uma descrição mais detalhada da minha experiência de trabalho, formação e certificação.
 <br/>
 <br/>
 
