@@ -29,6 +29,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor de Sistemas e Automação** \
 [**Guillaumon**](https://www.guillaumon.com.br/) • Contrato \
+_Nov de 2023 - Atual_ \
 Linguagens & Tecnologias: `Python`, `JavaScript`, `VBA`, `Zoho`
 <br/>
 <br/>
@@ -37,6 +38,7 @@ Linguagens & Tecnologias: `Python`, `JavaScript`, `VBA`, `Zoho`
 
 **Desenvolvedor Web e Suporte TI** \
 [**My Marketing Digital**](https://mymarketingdigital.com.br/) • Estágio \
+_ago de 2023 - Nov de 2023_ \
 Linguagens & Tecnologias: `JavaScript`, `WordPress`, `HTML`, `CSS`\
 <br/>
 
