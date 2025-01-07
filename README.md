@@ -36,7 +36,7 @@ Linguagens & Tecnologias: `Python`, `JavaScript`, `VBA`, `Zoho`
 
 [<img align="left" height="94px" width="94px" alt="MyMarketing" src="./mymarketing-logo.png"/>](https://mymarketingdigital.com.br/)
 
-**Desenvolvedor Web e Suporte TI** \
+**Desenvolvedor Web e Suporte** \
 [**My Marketing Digital**](https://mymarketingdigital.com.br/) • Estágio \
 _ago de 2023 - Nov de 2023_ \
 Linguagens & Tecnologias: `JavaScript`, `WordPress`, `HTML`, `CSS`\
