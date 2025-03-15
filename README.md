@@ -1,12 +1,8 @@
 <br>
 
-<h1 align="center">Hey, meu nome é <span style="color: #457a6d;">&lt;/Lucas&gt;</span></h1>
+<h1 align="center">Olá, meu nome é <span style="color: #457a6d;">&lt;/Lucas&gt;</span></h1>
 
 <br>
-
-<img src="./octocat.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<br><br><br>
 
 <p align="left"> 
   Sou programador backend com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou integrado em uma equipe de desenvolvimento de sistemas e automação. <br><br>Tenho experiência em projetos próprios utilizando Python, JavaScript e Java, além de estudar constantemente sobre tratamento de dados, consumo de APIs e desenvolvimento de software. Embora tenha habilidades em frontend, meu foco é no desenvolvimento backend.
@@ -14,43 +10,15 @@
 
 <br>
 
-###
+## Stack
+![Python](https://img.shields.io/badge/python-5f7588?style=for-the-badge&logo=python&logoColor=202222) ![Flask](https://img.shields.io/badge/flask-5f7588.svg?style=for-the-badge&logo=flask&logoColor=202222) ![Java](https://img.shields.io/badge/java-5f7588.svg?style=for-the-badge&logo=openjdk&logoColor=202222) ![Spring](https://img.shields.io/badge/spring-5f7588.svg?style=for-the-badge&logo=spring&logoColor=202222) ![MySQL](https://img.shields.io/badge/mysql-5f7588.svg?style=for-the-badge&logo=mysql&logoColor=202222) ![Postgres](https://img.shields.io/badge/postgres-5f7588.svg?style=for-the-badge&logo=postgresql&logoColor=202222) ![Git](https://img.shields.io/badge/git-5f7588.svg?style=for-the-badge&logo=git&logoColor=202222) ![Docker](https://img.shields.io/badge/docker-5f7588.svg?style=for-the-badge&logo=docker&logoColor=202222)
 
-<br><br><br><br>
+<br>
 
-## 🚀 Stack
-![Python](https://img.shields.io/badge/python-457a6d?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-d2b1a1.svg?style=for-the-badge&logo=openjdk&logoColor=333333) ![Spring](https://img.shields.io/badge/spring-457a6d.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-d2b1a1.svg?style=for-the-badge&logo=mysql&logoColor=333333) ![Git](https://img.shields.io/badge/git-457a6d.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-d2b1a1.svg?style=for-the-badge&logo=docker&logoColor=333333)
+## Redes
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="./guillaumon-logo.png"/>](https://www.guillaumon.com.br/)
-
-**Desenvolvedor de Sistemas e Automação** \
-[**Guillaumon**](https://www.guillaumon.com.br/) • Contrato \
-_Nov de 2023 - Atual_ \
-Linguagens & Tecnologias: `Python`, `JavaScript`, `VBA`, `Zoho`
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="MyMarketing" src="./mymarketing-logo.png"/>](https://mymarketingdigital.com.br/)
-
-**Desenvolvedor Web e Suporte** \
-[**My Marketing Digital**](https://mymarketingdigital.com.br/) • Estágio \
-_ago de 2023 - Nov de 2023_ \
-Linguagens & Tecnologias: `JavaScript`, `WordPress`, `HTML`, `CSS`\
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) para uma descrição mais detalhada da minha experiência de trabalho, formação e certificação.
-<br/>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-5f7588.svg?style=for-the-badge&logo=linkedin&logoColor=202222)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-5f7588?style=for-the-badge&logo=HackerRank&logoColor=202222)](https://www.hackerrank.com/profile/lucas_aguiar_ads)
 
 
-## 🌐 Redes
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-243b3a.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-243b3a?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lucas_aguiar_ads)
-
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia 😊 <br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia ;)<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=457a6d&height=120&section=footer"/>
