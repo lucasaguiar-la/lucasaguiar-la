@@ -11,7 +11,7 @@
 <br>
 
 ## Stack
-![My Skills](https://skillicons.dev/icons?i=python,flask,mongodb,postgres,docker,gcp,selenium,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,flask,spring,mongodb,postgres,docker,gcp,selenium,bash&theme=dark)
 
 <br>
 
