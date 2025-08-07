@@ -17,7 +17,6 @@
 
 ## Redes
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-242938.svg?style=for-the-badge&logo=linkedin&logoColor=202222)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-242938?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lucas_aguiar_ads)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-242938.svg?style=for-the-badge&logo=linkedin&logoColor=202222)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia ;)<br><br>
