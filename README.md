@@ -5,7 +5,9 @@
 <br>
 
 <p align="left"> 
-  Sou programador backend com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou integrado em uma equipe de desenvolvimento de sistemas e automação. <br><br>Trabalho com Python e Java e tenho experiência em tratamento de dados, consumo de APIs e desenvolvimento de software, utilizando JavaScript quando necessário. Minha maior habilidade e afinidade é no desenvolvimento backend, fazendo ajustes pontuais no frontend.
+  Programador backend com formação em Análise e Desenvolvimento de Sistemas.
+  <br>
+  Atuo no desenvolvimento de software e automação de processos, com experiência em Python, Java e integração de APIs. Tenho afinidade com soluções orientadas a dados e foco principal no backend, mas também realizo ajustes no frontend quando necessário.
 </p>
 
 <br>
