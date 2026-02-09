@@ -5,20 +5,18 @@
 <br>
 
 <p align="left"> 
-  Programador backend com formação em Análise e Desenvolvimento de Sistemas.
-  <br>
-  Atuo no desenvolvimento de software e automação de processos, com experiência em Python, Java e integração de APIs. Tenho afinidade com soluções orientadas a dados e foco principal na automação de processos e backend, mas também realizo ajustes no frontend quando necessário.
+  Desenvolvedor backend com foco em Python, APIs REST e automação. Atuo com Cloud, SQL, orquestração de dados e construção de serviços escaláveis, sempre com atenção à qualidade, observabilidade e evolução contínua.
 </p>
 
 <br>
 
 ## Stack
-![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,mongodb,postgres,docker,gcp,selenium,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,mongodb,postgres,docker,aws,gcp,selenium,bash&theme=dark)
 
 <br>
 
 ## Redes
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-242938.svg?style=for-the-badge&logo=linkedin&logoColor=202222)](https://www.linkedin.com/in/lucas-aguiar-5a889126b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-242938.svg?style=for-the-badge&logo=linkedin&logoColor=202222)](https://www.linkedin.com/in/lucas-aguiar23/)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia ;)<br><br>
