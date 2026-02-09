@@ -4,9 +4,18 @@
 
 <br>
 
-<p align="left"> 
-  Desenvolvedor backend com foco em Python, APIs REST e automação. Atuo com Cloud, SQL, orquestração de dados e construção de serviços escaláveis, sempre com atenção à qualidade, observabilidade e evolução contínua.
-</p>
+<table>
+  <tr>
+    <td width="300">
+      <img width="300" height="300" alt="octocat" src="https://github.com/user-attachments/assets/c3545a68-c20b-471b-aba4-a9eb7cf63aa0" />
+    </td>
+    <td >
+      <p align="left">
+        <strong>Desenvolvedor backend</strong> com foco em <strong>Python</strong>, <strong>APIs REST</strong> e <strong>automação</strong>. Atuo com Cloud, SQL, orquestração de dados e construção de serviços escaláveis, sempre com atenção à qualidade, observabilidade e evolução contínua.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
