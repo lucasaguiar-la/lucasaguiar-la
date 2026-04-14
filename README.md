@@ -11,7 +11,7 @@
     </td>
     <td >
       <p align="left">
-        <strong>Desenvolvedor backend</strong> com foco em <strong>Python</strong>, <strong>APIs REST</strong> e <strong>automação</strong>. Atuo com Cloud, SQL, orquestração de dados e construção de serviços escaláveis, sempre com atenção à qualidade, observabilidade e evolução contínua.
+        <strong>Desenvolvedor de sistemas</strong> com foco em <strong>Python</strong>, <strong>APIs REST</strong> e <strong>automação</strong>. Atuo com Cloud, SQL, orquestração de dados e construção de serviços escaláveis, sempre com atenção à qualidade, observabilidade e evolução contínua.
       </p>
     </td>
   </tr>
