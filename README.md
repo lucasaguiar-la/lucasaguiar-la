@@ -20,7 +20,7 @@
 <br>
 
 ## Stack
-![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,mongodb,postgres,docker,aws,gcp,selenium,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,flask,spring,mongodb,postgres,docker,aws,gcp,selenium,bash&theme=dark)
 
 <br>
 
