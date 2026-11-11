@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Olá, meu nome é <span style="color: #457a6d;">Lucas</span></h1>
+<h1 align="center">Hi, I'm <span style="color: #457a6d;">Lucas</span> 👋</h1>
 
 <br>
 
@@ -11,7 +11,7 @@
     </td>
     <td >
       <p align="left">
-        <strong>Desenvolvedor de sistemas</strong> com foco em <strong>Python</strong>, <strong>APIs REST</strong> e <strong>automação</strong>. Atuo com Cloud, SQL, orquestração de dados e construção de serviços escaláveis, sempre com atenção à qualidade, observabilidade e evolução contínua.
+        <strong>Automation and backend developer</strong> focused on <strong>Python</strong>, <strong>APIs REST</strong> and <strong>workflow automation</strong>. I work with cloud, SQL, data orchestration, and scalable services, with a strong focus on quality, observability, and continuous improvement.
       </p>
     </td>
   </tr>
@@ -24,8 +24,8 @@
 
 <br>
 
-## Redes
+## Networks
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-242938.svg?style=for-the-badge&logo=linkedin&logoColor=202222)](https://www.linkedin.com/in/lucas-aguiar23/)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia ;)<br><br>
+Feel free to reach out to discuss collaborations, interesting projects, or anything tech-related ;)<br><br>
