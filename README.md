@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="300">
-      <img width="300" alt="octocat" src="octocat.png" />
+      <img width="300" height="300" alt="octocat" src="https://github.com/user-attachments/assets/c3545a68-c20b-471b-aba4-a9eb7cf63aa0" />
     </td>
     <td>
       <p align="left">
