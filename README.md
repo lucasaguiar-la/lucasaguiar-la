@@ -63,7 +63,7 @@
 
 ## Featured projects
 
-- **[MeuDiario](https://github.com/lucasaguiar-la/MeuDiario)**: full-stack emotion diary web app built with Spring.
+- **[Moodboard](https://github.com/lucasaguiar-la/Moodboard)**: full-stack emotion diary web app built with Spring.
 - **[Termux Linux GUI](https://github.com/lucasaguiar-la/LinuxAndroid)**: open-source Bash script that installs a Linux desktop environment on Android via Termux.
 - **[Sunshine → Moonlight on Fire TV](https://github.com/lucasaguiar-la/SunshineMoonlight)**: guide for streaming from a Windows PC to a Fire TV Stick or even an Android device.
 
