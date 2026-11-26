@@ -3,25 +3,15 @@
 <h1 align="center">Hi, I'm Lucas 👋</h1>
 
 <br>
-
-<table>
-  <tr>
-    <td width="300">
-      <img width="300" height="300" alt="octocat" src="https://github.com/user-attachments/assets/c3545a68-c20b-471b-aba4-a9eb7cf63aa0" />
-    </td>
-    <td>
-      <p align="left">
+    <p align="left">
         <strong>Automation and infrastructure engineer</strong> with 3+ years of experience in <strong>Python</strong> and <strong>Bash</strong>, building reliable, traceable solutions for high-volume operations.
-      </p>
-      <p align="left">
+    </p>
+    <p align="left">
         I connect <strong>REST APIs, databases, web portals, and spreadsheets</strong> into resilient workflows with queuing, retries, logging, and alerting, orchestrated with <strong>Prefect</strong> and <strong>Airflow</strong>. Currently leading the migration of UiPath automations to Python and integrating AI agents via API.
-      </p>
-      <p align="left">
+    </p>
+    <p align="left">
         Outside of work, I run my own <strong>Ubuntu Server with Docker, Nginx, and Cloudflare Tunnel</strong>, and maintain an <strong>open-source Bash script</strong> that installs a Linux desktop environment on Android through Termux.
-      </p>
-    </td>
-  </tr>
-</table>
+    </p>
 
 <br>
 
